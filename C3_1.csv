@@ -1,0 +1,24 @@
+ ,Label,Area,Mean,Min,Max
+1,Experiment.nd2 - C=2-1:Cell_01,118.631,107.124,0,255
+2,Experiment.nd2 - C=2-1:Cell_02,60.851,93.079,0,255
+3,Experiment.nd2 - C=2-1:Cell_03,104.247,98.547,0,255
+4,Experiment.nd2 - C=2-1:Cell_04,88.084,82.827,0,255
+5,Experiment.nd2 - C=2-1:Cell_05,106.817,71.780,0,255
+6,Experiment.nd2 - C=2-1:Cell_01_1,3.041,133.275,9,255
+7,Experiment.nd2 - C=2-1:Cell_01_2,4.531,82.822,0,178
+8,Experiment.nd2 - C=2-1:Cell_01_3,2.022,70.752,26,125
+9,Experiment.nd2 - C=2-1:Cell_02_1,2.615,103.808,0,238
+10,Experiment.nd2 - C=2-1:Cell_02_2,2.919,79.125,0,155
+11,Experiment.nd2 - C=2-1:Cell_02_3,1.064,130.929,33,255
+12,Experiment.nd2 - C=2-1:Cell_03_1,3.041,97.970,0,255
+13,Experiment.nd2 - C=2-1:Cell_03_2,2.494,78.579,33,109
+14,Experiment.nd2 - C=2-1:Cell_03_3,1.885,91.290,6,255
+15,Experiment.nd2 - C=2-1:Cell_03_4,3.163,101.341,0,255
+16,Experiment.nd2 - C=2-1:Cell_04_1,1.885,103.710,9,245
+17,Experiment.nd2 - C=2-1:Cell_04_2,1.581,123.058,6,221
+18,Experiment.nd2 - C=2-1:Cell_04_3,1.703,155.964,56,255
+19,Experiment.nd2 - C=2-1:Cell_04_4,3.284,63.606,0,238
+20,Experiment.nd2 - C=2-1:Cell_05_1,3.862,104.469,9,208
+21,Experiment.nd2 - C=2-1:Cell_05_2,0.973,49.297,13,92
+22,Experiment.nd2 - C=2-1:Cell_05_3,1.749,101.496,16,255
+23,Experiment.nd2 - C=2-1:Cell_05_4,6.401,99.950,13,255

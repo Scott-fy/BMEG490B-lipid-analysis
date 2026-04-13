@@ -1,0 +1,23 @@
+ ,Label,Area,Mean,Min,Max
+1,Experiment.nd2 - C=2:Cell_01:c:3/3 z:10/31 - Experiment.nd2 (series 1),90.690,490.335,147,1388
+2,Experiment.nd2 - C=2:Cell_01_1:c:3/3 z:10/31 - Experiment.nd2 (series 1),2.566,871.790,464,1388
+3,Experiment.nd2 - C=2:Cell_01_2:c:3/3 z:10/31 - Experiment.nd2 (series 1),3.663,630.537,320,1098
+4,Experiment.nd2 - C=2:Cell_01_3:c:3/3 z:10/31 - Experiment.nd2 (series 1),2.111,466.696,268,871
+5,Experiment.nd2 - C=2:Cell_02:c:3/3 z:10/31 - Experiment.nd2 (series 1),103.625,514.850,157,1596
+6,Experiment.nd2 - C=2:Cell_03:c:3/3 z:10/31 - Experiment.nd2 (series 1),110.952,554.788,193,1480
+7,Experiment.nd2 - C=2:Cell_04:c:3/3 z:10/31 - Experiment.nd2 (series 1),82.764,588.120,204,1654
+8,Experiment.nd2 - C=2:Cell_02_1:c:3/3 z:10/31 - Experiment.nd2 (series 1),2.525,794.238,297,1596
+9,Experiment.nd2 - C=2:Cell_02_2:c:3/3 z:10/31 - Experiment.nd2 (series 1),3.394,730.476,484,1067
+10,Experiment.nd2 - C=2:Cell_02_3:c:3/3 z:10/31 - Experiment.nd2 (series 1),3.311,488.337,289,917
+11,Experiment.nd2 - C=2:Cell_03_1:c:3/3 z:10/31 - Experiment.nd2 (series 1),6.064,607.993,210,1228
+12,Experiment.nd2 - C=2:Cell_03_2:c:3/3 z:10/31 - Experiment.nd2 (series 1),2.318,543.411,292,762
+13,Experiment.nd2 - C=2:Cell_03_3:c:3/3 z:10/31 - Experiment.nd2 (series 1),1.635,536.418,230,933
+14,Experiment.nd2 - C=2:Cell_03_4:c:3/3 z:10/31 - Experiment.nd2 (series 1),3.849,632.812,422,944
+15,Experiment.nd2 - C=2:Cell_04_1:c:3/3 z:10/31 - Experiment.nd2 (series 1),4.843,724.957,342,1319
+16,Experiment.nd2 - C=2:Cell_04_2:c:3/3 z:10/31 - Experiment.nd2 (series 1),1.987,783.760,301,1633
+17,Experiment.nd2 - C=2:Cell_04_3:c:3/3 z:10/31 - Experiment.nd2 (series 1),2.111,748.265,429,1116
+18,Experiment.nd2 - C=2:Cell_04_4:c:3/3 z:10/31 - Experiment.nd2 (series 1),1.738,582.500,246,929
+19,Experiment.nd2 - C=2:Cell_05:c:3/3 z:10/31 - Experiment.nd2 (series 1),100.024,527.703,199,1393
+20,Experiment.nd2 - C=2:Cell_05_1:c:3/3 z:10/31 - Experiment.nd2 (series 1),2.111,498.833,367,698
+21,Experiment.nd2 - C=2:Cell_05_2:c:3/3 z:10/31 - Experiment.nd2 (series 1),3.663,458.870,245,807
+22,Experiment.nd2 - C=2:Cell_05_3:c:3/3 z:10/31 - Experiment.nd2 (series 1),2.277,570.082,377,1228
